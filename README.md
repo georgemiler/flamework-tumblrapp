@@ -6,7 +6,7 @@ This repository includes the basic additions and changes you need to create a Fl
 Setup
 ---
 
-You will need to create an API Key at http://api.tumblr.com. This will result in a Consumer Key and a Consumer Secret. These should be placed in your config.php file like so:
+You will need to create an API Key at http://www.tumblr.com/docs/en/api/v2. This will result in a Consumer Key and a Consumer Secret. These should be placed in your config.php file like so:
 
 <pre>$GLOBALS['cfg']['tumblr_api_key'] = 'YOUR-TUMBLR-API-CONSUMER-KEY';
 $GLOBALS['cfg']['tumblr_api_secret'] = 'YOU-TUMBLR-API-CONSUMER-SECRET';
