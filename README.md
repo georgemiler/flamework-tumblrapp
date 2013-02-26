@@ -1,6 +1,8 @@
 flamework-tumblrapp
 ===
 
+**This is still very much a work in progress**
+
 This repository includes the basic additions and changes you need to create a Flamework app which authenticates using the Tumblr API.
 
 Setup
