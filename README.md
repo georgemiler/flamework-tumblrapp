@@ -18,7 +18,7 @@ To get started, copy in to your existing Flamework app the following files.
 <li>auth_callback_tumblr_oauth.php</li>
 <li>include/lib_tumblr_api.php</li>
 <li>include/lib_tumblr_users.php</li>
-<li>include/tumblroauth -- This API library can be found here http://github...</li>
+<li>include/tumblroauth</li>
 <li>templates/page_auth_callback_tumblr_tumblrauth.txt</li></ul>
 
 You will also need to modify your .htaccess file so that the /signin page is redirected as follows
